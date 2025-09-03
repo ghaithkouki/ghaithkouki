@@ -45,12 +45,15 @@ Business Intelligence project with **ETL pipelines, data warehousing, dashboards
 
 ### 📈 Currently Learning
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF9900?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Linear Regression](https://img.shields.io/badge/Linear%20Regression-4B8BBE?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-![Ghaith’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghaithkouki&show_icons=true&theme=radical)  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaithkouki/ghaithkouki/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghaithkouki/ghaithkouki/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ghaithkouki/ghaithkouki/output/pacman-contribution-graph.svg">
+</picture>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghaithkouki&layout=compact&theme=radical)
 
 ---
