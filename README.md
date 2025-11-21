@@ -49,7 +49,6 @@ Business Intelligence project with **ETL pipelines, data warehousing, dashboards
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaithkouki/ghaithkouki/output/pacman-contribution-graph-dark.svg">
