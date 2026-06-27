@@ -4,12 +4,11 @@
 ---
 
 ## 👨‍💻 About Me
-BI & Data Analyst with hands-on experience building end-to-end intelligence 
-solutions — from data warehouse modeling (Kimball star schema) to SSIS pipelines, 
-embedded Power BI dashboards, and unsupervised ML pipelines.
+BI & Data Analyst with hands-on experience designing and delivering end-to-end business intelligence systems from data warehouse modeling (Kimball star schema) to SSIS ETL pipelines, embedded Power BI dashboards, and applied machine learning workflows.
 
-Built a complete BI solution during my final-year internship at StartNow for 
-BeeReport, a SaaS platform for multi-entity financial consolidation.
+Built a full BI solution during my final-year internship at StartNow for BeeReport, a SaaS platform for multi-entity financial consolidation. The project covered data modeling, data integration, KPI design, and interactive dashboard development for financial reporting and analysis.
+
+Currently focused on strengthening my foundations in software engineering, data systems design, and scalable machine learning (MLOps, deployment, and data architecture).
 
 📧 ghaithkouki0714@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/ghaith-kouki-4010a3329/)
